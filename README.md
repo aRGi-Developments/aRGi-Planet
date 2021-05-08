@@ -33,7 +33,7 @@ upload_port = COM19
 build_flags = -D ESP32
 
 change the com ports
-[env:esp8266]
+[env:esp8266]  
 platform = espressif8266
 framework = arduino
 board = esp12e
